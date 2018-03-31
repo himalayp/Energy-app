@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775569020695",
+    "firebase_url": "https://project-cdbd7.firebaseio.com",
+    "project_id": "project-cdbd7",
+    "storage_bucket": "project-cdbd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775569020695:android:d1151229b5de2a57",
+        "android_client_info": {
+          "package_name": "com.example.himalay.energy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775569020695-01695ujp11chobj08ui8co6uif3a5r50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himalay.energy",
+            "certificate_hash": "ba808398fb1fd3f4ce732296c0518718ff5cafb7"
+          }
+        },
+        {
+          "client_id": "775569020695-ldkn6pttl3kkn560vpfei2slk4cpjd5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_uwlUqzErkmyOYclcLw-71RH8NMLkW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775569020695-ldkn6pttl3kkn560vpfei2slk4cpjd5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
